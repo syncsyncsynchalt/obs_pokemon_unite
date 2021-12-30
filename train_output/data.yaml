@@ -1,0 +1,5 @@
+train: ./train_output/train
+val: ./train_output/valid
+
+nc: 15
+names: ['talonflame1', 'talonflame2', 'talonflame3', 'wigglytuff1', 'wigglytuff2', 'greninja1', 'greninja2', 'greninja3', 'cinderace1', 'cinderace2', 'cinderace3', 'lucario1', 'snorlax1', 'zeraora1', 'cramorant1']

@@ -1,2 +1,5 @@
 /.idea
 /__pycache__
+/train_orig
+/train_output/train
+/train_output/valid
